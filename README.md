@@ -22,3 +22,5 @@ formance relative to the original annotations using Connec-
 tionist Temporal Classification (CTC) loss for the particular
 video. We show that an end-to-end sentence-level lipread-
 ing solution is attainable by this approach.
+
+### Please read the project report for more detailed information
